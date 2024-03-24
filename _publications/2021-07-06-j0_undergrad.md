@@ -2,7 +2,7 @@
 title: "How Do Fractures Influence Hyporheic Exchange in Sedimentary Rock Riverbeds?"
 collection: publications
 permalink: /publication/2021-07-06-j0_undergrad
-excerpt: 'Data-Informed Hydrogeologic modelling.'
+excerpt: 'Data-informed Hydrogeologic modelling.'
 date: 2021-07-06
 venue: 'Water Resources Research'
 # paperurl: 'http://adthoms.github.io/files/j0_undergad.pdf'
